@@ -1,0 +1,100 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KAORI.COM.VN" resolutions="1x" timestamp="1551067373680">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3974292032" ref="index"/>
+    <file name="master_a-master.css" crc="4061102629" ref="index:about"/>
+    <file name="iefonts_index.css" crc="4243763116" ref="index"/>
+    <file name="about.css" crc="337413323" ref="about"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fa-brands-400.woff" crc="4040601067"/>
+    <file name="fa-brands-400.eot" crc="319521403"/>
+    <file name="fa-brands-400.svg" crc="3798166506"/>
+    <file name="fa-solid-900.woff" crc="3972382110"/>
+    <file name="fa-solid-900.eot" crc="423288277"/>
+    <file name="fa-solid-900.svg" crc="3970430265"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about"/>
+    <file name="require.js" crc="4157109226" ref="index:about"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="kaori-1.png" crc="3864435755" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="xojilyxq.png" crc="3902526683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="trau.png" crc="411990923" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="milk-tea" alt=""/>
+    </file>
+    <file name="fruit tea.png" crc="3861330738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cf.png" crc="55071854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="matcha.png" crc="117931381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cam ep.png" crc="3891931209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aroma-background-bright-910329 (1).jpg" crc="261480252" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2440-4.png" crc="3843210125" ref="about"/>
+    <file name="pasted image 1676x406.jpg" crc="486241204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2510-11.png" crc="3969476267" ref="about"/>
+    <file name="xcw5jkbt.png" crc="3787884438" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2551-4.png" crc="187328626" ref="about"/>
+    <file name="foody-tra-sua-kaori-ocha-nguyen-thi-thap-939-636755471489314277.jpg" crc="8958967" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2561-13.png" crc="3855950192" ref="about"/>
+    <file name="u2568-4.png" crc="445608770" ref="about"/>
+    <file name="u2587-6.png" crc="530826799" ref="about"/>
+    <file name="u2593-16.png" crc="227316804" ref="about"/>
+    <file name="u2663-6.png" crc="3816862298" ref="about"/>
+    <file name="u2664-12.png" crc="27255805" ref="about"/>
+    <file name="u2603-6.png" crc="3862852876" ref="about"/>
+    <file name="u2604-26.png" crc="207060816" ref="about"/>
+    <file name="u2619-6.png" crc="9662893" ref="about"/>
+    <file name="u2616-24.png" crc="4275998358" ref="about"/>
+    <file name="u2648-6.png" crc="4022957173" ref="about"/>
+    <file name="u2646-16.png" crc="4224286623" ref="about"/>
+    <file name="u2681-6.png" crc="144384372" ref="about"/>
+    <file name="u2682-4.png" crc="161910212" ref="about"/>
+    <file name="u2634-6.png" crc="393874307" ref="about"/>
+    <file name="u2631-12.png" crc="242240113" ref="about"/>
+    <file name="u2696-6.png" crc="279999195" ref="about"/>
+    <file name="u2697-4.png" crc="3789439143" ref="about"/>
+    <file name="u2711-4.png" crc="3868799534" ref="about"/>
+  </folder>
+  <file name="index.html" crc="187453630" seo="true" mt="1551067070340" redirect="true"/>
+  <file name="about.html" crc="4240675877" seo="true" mt="1551067360367" redirect="true"/>
+</manifest>
